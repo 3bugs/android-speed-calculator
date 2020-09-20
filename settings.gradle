@@ -1,0 +1,2 @@
+rootProject.name='Speed Calculator'
+include ':app'

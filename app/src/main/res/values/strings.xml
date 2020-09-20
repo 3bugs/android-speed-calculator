@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SPEED CALCULATOR</string>
+    <string name="average_speed">Average Speed (km/h)</string>
+    <string name="enter_distance_meter">Enter distance (meter)</string>
+    <string name="enter_time_second">Enter time (second)</string>
+    <string name="clear">Clear</string>
+    <string name="calculate">Calculate</string>
+    <string name="distance_and_time_required">Distance and time are required.</string>
+    <string name="time_must_be_greater_than_zero">Time must be greater than zero.</string>
+    <string name="speed_over_limit">Speed is over limit!</string>
+</resources>
